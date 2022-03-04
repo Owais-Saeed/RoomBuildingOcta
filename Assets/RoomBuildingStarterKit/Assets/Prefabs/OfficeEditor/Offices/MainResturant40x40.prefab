@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5807651872851565644
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1782171707981107678, guid: c0fd764097b2c1d458133c0768b7a729,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1782171707981107678, guid: c0fd764097b2c1d458133c0768b7a729,
+        type: 3}
+      propertyPath: RoomsContainerTransform
+      value: 
+      objectReference: {fileID: 7546318105275667650}
+    - target: {fileID: 5009513962611477347, guid: c0fd764097b2c1d458133c0768b7a729,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5480462010680536379, guid: c0fd764097b2c1d458133c0768b7a729,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915663388444238268, guid: c0fd764097b2c1d458133c0768b7a729,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915663388444238268, guid: c0fd764097b2c1d458133c0768b7a729,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915663388444238268, guid: c0fd764097b2c1d458133c0768b7a729,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915663388444238268, guid: c0fd764097b2c1d458133c0768b7a729,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915663388444238268, guid: c0fd764097b2c1d458133c0768b7a729,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915663388444238268, guid: c0fd764097b2c1d458133c0768b7a729,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915663388444238268, guid: c0fd764097b2c1d458133c0768b7a729,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915663388444238268, guid: c0fd764097b2c1d458133c0768b7a729,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915663388444238268, guid: c0fd764097b2c1d458133c0768b7a729,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915663388444238268, guid: c0fd764097b2c1d458133c0768b7a729,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915663388444238268, guid: c0fd764097b2c1d458133c0768b7a729,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8690136831014137236, guid: c0fd764097b2c1d458133c0768b7a729,
+        type: 3}
+      propertyPath: m_Name
+      value: Office_2022_2_11_4_9_43
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 9205283198992447731, guid: c0fd764097b2c1d458133c0768b7a729, type: 3}
+    - {fileID: 3621486457662021423, guid: c0fd764097b2c1d458133c0768b7a729, type: 3}
+    - {fileID: 9097532434400594617, guid: c0fd764097b2c1d458133c0768b7a729, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: c0fd764097b2c1d458133c0768b7a729, type: 3}
+--- !u!4 &7546318105275667650 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4044519223290824846, guid: c0fd764097b2c1d458133c0768b7a729,
+    type: 3}
+  m_PrefabInstance: {fileID: 5807651872851565644}
+  m_PrefabAsset: {fileID: 0}
